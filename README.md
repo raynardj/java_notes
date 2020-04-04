@@ -5,7 +5,7 @@
 ```
 mkdir -p ~/github;
 cd ~/github;
-git clone git@github.com:raynardj/java_notes.git;
+git clone https://github.com/raynardj/java_notes ;
 cd java_notes;
 
 docker build -t java docker;
