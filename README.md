@@ -1,5 +1,5 @@
 # Java Notes
-> Ray's Java study notes
+> Ray's Java study notes.
 
 ### Installation
 ```
